@@ -1,0 +1,12 @@
+C:\Projects\Github\SOLID_Principles\L_Correct\bin\Debug\netcoreapp3.1\L_Correct.exe
+C:\Projects\Github\SOLID_Principles\L_Correct\bin\Debug\netcoreapp3.1\L_Correct.deps.json
+C:\Projects\Github\SOLID_Principles\L_Correct\bin\Debug\netcoreapp3.1\L_Correct.runtimeconfig.json
+C:\Projects\Github\SOLID_Principles\L_Correct\bin\Debug\netcoreapp3.1\L_Correct.runtimeconfig.dev.json
+C:\Projects\Github\SOLID_Principles\L_Correct\bin\Debug\netcoreapp3.1\L_Correct.dll
+C:\Projects\Github\SOLID_Principles\L_Correct\bin\Debug\netcoreapp3.1\L_Correct.pdb
+C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.AssemblyInfoInputs.cache
+C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.AssemblyInfo.cs
+C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.csproj.CoreCompileInputs.cache
+C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.dll
+C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.pdb
+C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.genruntimeconfig.cache
