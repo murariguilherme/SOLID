@@ -17,7 +17,7 @@ namespace O_Correct.Services
 
         public void CreateUser(User user)
         {
-            registrationServiceUsername.Check(user.Username);
+            if (!registrationServiceUsername.Check(user.Username)) return;
 
             repository.Create(user);
         }

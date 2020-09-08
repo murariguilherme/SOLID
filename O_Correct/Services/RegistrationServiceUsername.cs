@@ -29,10 +29,21 @@ namespace O_Correct.Services
             return repository.CheckIfExists(username);
         }
 
-        public void Check(string username)
-        {          
-            if (!VerifyIfAllowed(username)) throw new InvalidOperationException();
-            if (CheckIfExists(username)) throw new InvalidOperationException();
+        public bool Check(string username)
+        {
+            if (!VerifyIfAllowed(username))
+            {
+                Console.WriteLine($"The username '{username}' is not allowed to use.");
+                return false;
+            }
+
+            if (CheckIfExists(username))
+            {
+                Console.WriteLine("This user already exists in database.");
+                return false;
+            }
+
+            return true;
         }
     }
 }

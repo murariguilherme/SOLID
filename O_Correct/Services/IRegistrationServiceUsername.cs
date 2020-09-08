@@ -6,6 +6,6 @@ namespace O_Correct.Services
 {
     public interface IRegistrationServiceUsername
     {
-        void Check(string username);
+        bool Check(string username);
     }
 }
