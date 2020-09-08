@@ -1,0 +1,13 @@
+C:\Projects\Github\SOLID_Principles\O_Wrong\bin\Debug\netcoreapp3.1\O_Wrong.exe
+C:\Projects\Github\SOLID_Principles\O_Wrong\bin\Debug\netcoreapp3.1\O_Wrong.deps.json
+C:\Projects\Github\SOLID_Principles\O_Wrong\bin\Debug\netcoreapp3.1\O_Wrong.runtimeconfig.json
+C:\Projects\Github\SOLID_Principles\O_Wrong\bin\Debug\netcoreapp3.1\O_Wrong.runtimeconfig.dev.json
+C:\Projects\Github\SOLID_Principles\O_Wrong\bin\Debug\netcoreapp3.1\O_Wrong.dll
+C:\Projects\Github\SOLID_Principles\O_Wrong\bin\Debug\netcoreapp3.1\O_Wrong.pdb
+C:\Projects\Github\SOLID_Principles\O_Wrong\obj\Debug\netcoreapp3.1\O_Wrong.csprojAssemblyReference.cache
+C:\Projects\Github\SOLID_Principles\O_Wrong\obj\Debug\netcoreapp3.1\O_Wrong.AssemblyInfoInputs.cache
+C:\Projects\Github\SOLID_Principles\O_Wrong\obj\Debug\netcoreapp3.1\O_Wrong.AssemblyInfo.cs
+C:\Projects\Github\SOLID_Principles\O_Wrong\obj\Debug\netcoreapp3.1\O_Wrong.csproj.CoreCompileInputs.cache
+C:\Projects\Github\SOLID_Principles\O_Wrong\obj\Debug\netcoreapp3.1\O_Wrong.dll
+C:\Projects\Github\SOLID_Principles\O_Wrong\obj\Debug\netcoreapp3.1\O_Wrong.pdb
+C:\Projects\Github\SOLID_Principles\O_Wrong\obj\Debug\netcoreapp3.1\O_Wrong.genruntimeconfig.cache
