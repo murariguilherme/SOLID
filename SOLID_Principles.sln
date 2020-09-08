@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L_Wrong", "L_Wrong\L_Wrong.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L_Correct", "L_Correct\L_Correct.csproj", "{6C77F6A6-4894-4CB5-B739-3DFE2B70811C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I_Wrong", "I_Wrong\I_Wrong.csproj", "{C9A18E98-3901-4AB9-8384-FC98749CE036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I_Correct", "I_Correct\I_Correct.csproj", "{149EFDCF-D1F3-42D2-A79C-8628C17389C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{6C77F6A6-4894-4CB5-B739-3DFE2B70811C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C77F6A6-4894-4CB5-B739-3DFE2B70811C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C77F6A6-4894-4CB5-B739-3DFE2B70811C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A18E98-3901-4AB9-8384-FC98749CE036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A18E98-3901-4AB9-8384-FC98749CE036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A18E98-3901-4AB9-8384-FC98749CE036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A18E98-3901-4AB9-8384-FC98749CE036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149EFDCF-D1F3-42D2-A79C-8628C17389C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149EFDCF-D1F3-42D2-A79C-8628C17389C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149EFDCF-D1F3-42D2-A79C-8628C17389C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149EFDCF-D1F3-42D2-A79C-8628C17389C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
