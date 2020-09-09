@@ -6,9 +6,9 @@ namespace L_Wrong.Domains
 {
     public class Chimpanzee: Monkey
     {
-        public override string ToString()
-        {            
-            return "I am a chipanzee and I've a appendix.";
+        override public void ShowTail()
+        {
+            Console.WriteLine($"I don't have a tail!!");
         }
     }
 }

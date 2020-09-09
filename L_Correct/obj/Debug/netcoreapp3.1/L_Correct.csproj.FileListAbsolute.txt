@@ -10,3 +10,4 @@ C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.
 C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.dll
 C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.pdb
 C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.genruntimeconfig.cache
+C:\Projects\Github\SOLID_Principles\L_Correct\obj\Debug\netcoreapp3.1\L_Correct.csprojAssemblyReference.cache

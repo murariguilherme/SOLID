@@ -11,8 +11,11 @@ namespace L_Wrong
         //by monkey class
         static void Main(string[] args)
         {
-            Monkey chimpanzee = new Monkey();
-            Console.WriteLine(chimpanzee.ToString());
+            Monkey monkey = new Monkey();
+            monkey.ShowTail();
+
+            Monkey chimpanzee = new Chimpanzee();
+            chimpanzee.ShowTail();
             Console.ReadLine();
         }
     }

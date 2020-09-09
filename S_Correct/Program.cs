@@ -14,9 +14,8 @@ namespace S_Correct
                 MonthHours = 220,
                 MonthSalary = 2500,
                 Name = "Ben Jhonson"
-            };            
-
-            SalaryEmployeerCalculator.Calculate(employeer, 200);
+            };
+            Console.WriteLine($"Amount salary: {SalaryEmployeerCalculator.Calculate(employeer, 200):C2}.");            
             ProccessPaymentSalary.Proccess(employeer);
             SendEmail.Send(employeer.Email, "Your salary was paid.");
         }

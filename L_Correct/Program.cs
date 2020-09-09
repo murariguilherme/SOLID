@@ -13,6 +13,9 @@ namespace L_Correct
             Primate monkey = new Monkey();
             Console.WriteLine(monkey.ToString());
 
+            Monkey monkey2 = new Monkey();
+            monkey2.ShowTail();
+
             Console.ReadLine();
         }
     }

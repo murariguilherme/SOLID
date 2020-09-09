@@ -7,11 +7,9 @@ namespace S_Correct
 {
     public static class SalaryEmployeerCalculator
     {
-        public static void Calculate(Employeer employeer, int currentMonthHoursWorked)
+        public static decimal Calculate(Employeer employeer, int currentMonthHoursWorked)
         {
-            var amountsalary = (employeer.MonthSalary / employeer.MonthHours) * currentMonthHoursWorked;
-            Console.WriteLine($"Amount salary: {amountsalary:C2}.");
-            return;
+            return ((employeer.MonthSalary / employeer.MonthHours) * currentMonthHoursWorked);           
         }
     }
 }

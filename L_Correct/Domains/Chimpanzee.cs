@@ -8,7 +8,7 @@ namespace L_Correct.Domains
     {
         public override string ToString()
         {            
-            return "I am a chipanzee and I've a appendix.";
+            return "I am a chipanzee.";
         }
     }
 }
